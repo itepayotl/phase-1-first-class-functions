@@ -22,7 +22,7 @@ describe("index", () => {
       fn = returnsANamedFunction();
     });
 
-    it("returns a function", () => {
+    it(" ", () => {
       expect(fn).to.be.a("function");
     });
 
